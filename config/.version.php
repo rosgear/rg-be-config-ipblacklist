@@ -12,8 +12,8 @@
 return [
     'name'        => 'IP Blacklist',
     'description' => 'Prevent users from accessing the control panel or site from specified IP addresses',
-    'version'     => '1.0',
-    'versionDate' => '20-12-2017',
+    'version'     => '1.0.1',
+    'versionDate' => '06-10-2026',
     'author'      => 'RosGear',
     'authorUrl'   => 'https://rosgear.ru/',
     'email'       => 'info@rosgear.ru',
